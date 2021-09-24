@@ -18,6 +18,8 @@ After hours of graphical processing, we were able to generate hundreds of smile 
 
 These distinct evolutions of the same algorithm arose under the varying starting conditions initiated by the grid search procedure. When viewing the process in isolation we could further observe the relationships between the finalized patterns. Nearly all started as circles, then evolved into cities, until complexity took hold and the final cell pattern emerged. 
 
-![](agent_evolution.gif)
+<div align="center"><img src="agent_evolution.gif"></img></div>
 
 With a new found appreciation for the algorithm and pleasure with the art work, we curated the collection down to 99 representative pieces that capture the essence of algorithm and highlights the variation in output of the final emergent patterns. In the end we were proud and pleased to called our generative art collection “Cities, Circles, and Cells”.
+
+<div align="center"><img src="mini_collage_agents_1000.PNG"></img></div>
