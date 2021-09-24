@@ -12,7 +12,7 @@ After hours of graphical processing, we were able to generate hundreds of smile 
       <img src="Curated Collection/Circles/image_176.png" width="200" /> 
       <img src="Curated Collection/Cities/image_187.png" width="200" />
     </p>
-  <figcaption><em><div align="center">Sample cell, circle, and city image</div></em></figcaption>
+  <figcaption><em>Sample cell, circle, and city image</em></figcaption>
 </figure>
 <br><br>
 
