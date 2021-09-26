@@ -1,13 +1,13 @@
 # Cities, Circles, and Cells
 
-![](Animation/Cities_andCells_gif-002.gif)
+<div align="center"><img src="Animation/Cities_andCells_gif-002.gif"></img></div>
 
 “Cities, Circles, and Cells” is a generative art collection inspired by the biological growth process of Physarum slime-mold. Originally codified as a generative art script by Antonio Sánchez Chinchón in his [“Abstractions”](https://github.com/aschinchon/abstractions) R experiment, we took his exploration a bit further by performing a grid search across eight parameters controlling everything from the diffusion properties to the rotation angle of the agents.
 
 After hours of graphical processing, we were able to generate hundreds of smile mold art abstractions. It was at this point in our journey did the inspiration for the art collection manifest itself. As we viewed the outputs, it became immediately obvious that the algorithm was generating “cities”, “circles” and “cells”.
 
 <figure>
-    <p float="left">
+    <p float="center">
       <img src="Curated Collection/Cells/image_104.png" width="200" />
       <img src="Curated Collection/Circles/image_176.png" width="200" /> 
       <img src="Curated Collection/Cities/image_187.png" width="200" />
