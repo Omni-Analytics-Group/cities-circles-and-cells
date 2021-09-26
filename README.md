@@ -7,12 +7,14 @@
 After hours of graphical processing, we were able to generate hundreds of smile mold art abstractions. It was at this point in our journey did the inspiration for the art collection manifest itself. As we viewed the outputs, it became immediately obvious that the algorithm was generating “cities”, “circles” and “cells”.
 
 <figure>
-    <p float="center">
+    <div align="center">
+    <p float="left">
       <img src="Curated Collection/Cells/image_104.png" width="200" />
       <img src="Curated Collection/Circles/image_176.png" width="200" /> 
       <img src="Curated Collection/Cities/image_187.png" width="200" />
     </p>
   <figcaption><em>Sample cell, circle, and city image</em></figcaption>
+   </div>     
 </figure>
 <br><br>
 
